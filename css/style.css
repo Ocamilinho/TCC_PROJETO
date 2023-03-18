@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,900&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -5,6 +7,16 @@
     text-decoration: none;
 }
 
+:root{
+    --branco: #fff;
+    --azul: #4da1a9;
+    --cinzareal: #8F8F8F;
+    --cinzabarra: #717171;
+    --preto: #1a1a1a;
+
+    --font1: "Poppins"
+    --font2: "Montserrat"
+}
 
 
 
